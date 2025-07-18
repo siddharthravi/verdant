@@ -4,7 +4,7 @@
 
 ## 🚀 Project Overview
 
-Climate Nexus is an interactive web platform that models and visualizes global climate change impacts in real-time. Users can adjust climate parameters, run “what-if” analyses, and see the effect on global metrics like temperature, sea level rise, and biodiversity.
+Verdant is an interactive web platform that models and visualizes global climate change impacts in real-time. Users can adjust climate parameters, run “what-if” analyses, and see the effect on global metrics like temperature, sea level rise, and biodiversity.
 
 ## 🧩 Key Features
 
