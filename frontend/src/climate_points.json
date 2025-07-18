@@ -1,0 +1,22 @@
+[
+    {
+      "lat": 37.7749,
+      "lon": -122.4194,
+      "info": "San Francisco: Temperature 15°C, Precipitation: 0mm"
+    },
+    {
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "info": "London: Temperature 20°C, Precipitation: 2mm"
+    },
+    {
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "info": "Sydney: Temperature 22°C, Precipitation: 5mm"
+    },
+    {
+      "lat": 35.6895,
+      "lon": 139.6917,
+      "info": "Tokyo: Temperature 27°C, Precipitation: 1mm"
+    }
+  ]
