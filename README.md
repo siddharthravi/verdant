@@ -1,4 +1,4 @@
-# Climate Nexus
+# Verdant
 
 **Real-Time Global Climate Simulation and Visualization Platform**
 
